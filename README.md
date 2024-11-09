@@ -26,5 +26,7 @@ NSFW is Prohibited: We aim to ensure that all users, including minors, feel and 
 Links to Provide Detailed Information on Certain Guidelines and How to Report Users:
 
 https://discord.com/safety/child-safety-policy-explainer
+
 https://discord.com/safety/suicide-self-harm-policy-explainer
+
 https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord
